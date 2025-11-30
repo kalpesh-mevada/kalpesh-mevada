@@ -81,7 +81,7 @@ I specialize in:
 ### ⚙️ Tools  
 **Selenium, JIRA, JMeter, Postman, QATouch, Trello, BrowserStack, Jenkins, Git, GitHub, Notion**
 
-### 💻 Programming  
+### 💻 Programming & Database
 **Java, SQL**
 
 ### 🤝 Soft Skills  
