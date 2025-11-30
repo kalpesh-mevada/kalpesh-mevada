@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kalpesh Mevada</h1>
 <h3 align="center">QA Manager | Senior QA Analyst | 6+ Years of Experience</h3>
 
-- 🔭 I’m currently working on **vTiger CRM, Multi-tenant CRM, UCaaS Omnichannel Platform, Expense Management System**
+- 🔭 I’m currently working on **vTiger CRM, Multi-tenant CRM, Omnichannel Platform, Expense Management System**
 
 - 🌱 I’m currently learning **AI in Testing, JMeter Advanced, Automation Design Patterns**
 
