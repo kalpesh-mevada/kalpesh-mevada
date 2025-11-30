@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalpesh Mevada</h1>
-<h3 align="center">QA Manager | Senior QA Analyst | 6+ Years of Experience</h3>
+<h3 align="center">QA Manager | Leadership | 6+ Years of Experience</h3>
 
 ---
 
