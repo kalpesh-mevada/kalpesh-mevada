@@ -37,6 +37,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40"/>
+  <!-- Git -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+
+<!-- Maven -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40"/>
+
+<!-- JIRA -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40"/>
+<!-- Trello -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40"/>
+
+<!-- SQL (MySQL icon) -->
+<!-- Postman -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40"/>
+
+<!-- Agile (no official icon on Devicon; using Scrum icon alternative) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40"/>
+
+<!-- SQL (Database Icon) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 </p>
 
 ---
@@ -110,12 +130,8 @@ Hemchandracharya North Gujarat University
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalpesh-mevada&show_icons=true&theme=default" height="150" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalpesh-mevada&theme=default" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpesh-mevada&layout=compact" height="150" />
 </p>
 
 ---
